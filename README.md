@@ -18,3 +18,19 @@ A simple 3x3 matrix game where clicking a box **changes it to green**, and once 
 ✔️ **Component Reusability (`Button.jsx`)** keeps the code clean and modular.  
 ✔️ **Tailwind CSS** avoids the need for extra CSS files.  
 ✔️ **Minimal re-renders**, making it performant.  
+
+## Project demo
+
+
+![s1]((https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot1.png))
+
+
+![s1](https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot2.png)
+
+
+![s1]((https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot3.png))
+
+
+![s1]((https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot4.png))
+
+
