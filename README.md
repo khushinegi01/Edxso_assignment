@@ -22,15 +22,15 @@ A simple 3x3 matrix game where clicking a box **changes it to green**, and once 
 ## Project demo
 
 
-![s1]((https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot1.png))
+![s1](https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot1.png)
 
 
-![s1](https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot2.png)
+![s2](https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot2.png)
 
 
-![s1]((https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot3.png))
+![s3](https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot3.png)
 
 
-![s1]((https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot4.png))
+![s4](https://raw.githubusercontent.com/khushinegi01/Edxso_assignment/6872686638db5eef9b411b5cd250784efb872be8/Screenshot4.png)
 
 
